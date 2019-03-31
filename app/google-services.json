@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "298812583845",
+    "firebase_url": "https://socialaap-29a1c.firebaseio.com",
+    "project_id": "socialaap-29a1c",
+    "storage_bucket": "socialaap-29a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298812583845:android:e58d3a9b0c2e5d95",
+        "android_client_info": {
+          "package_name": "com.example.hammad.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298812583845-algslv3kqrda4d06lr7c61566s4sdvsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hammad.social_app",
+            "certificate_hash": "1334b914969224b40faf50327c06bfc5e9175b76"
+          }
+        },
+        {
+          "client_id": "298812583845-qk6aarpv7ean7ovtd7fumn7nnpm683km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeH55ELpVg2z91O55euG6eEDLFgVdckeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298812583845-qk6aarpv7ean7ovtd7fumn7nnpm683km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
